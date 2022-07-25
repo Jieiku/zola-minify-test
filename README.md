@@ -1,2 +1,1 @@
-# zola-minify-test
-A repository to test the minify html option of zola.
+This repository was created to test the minify_html = true option in zola the static site generator.
