@@ -17,7 +17,7 @@ taxonomies = [
 ]
 
 [markdown]
-extra_syntaxes_and_themes = ["highlight_themes"]
+#extra_syntaxes_and_themes = ["highlight_themes"]
 highlight_code = true
 highlight_theme = "css"
 
